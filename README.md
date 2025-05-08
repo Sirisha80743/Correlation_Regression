@@ -1,8 +1,8 @@
-# Correlation and regression for data analysis
+Developed By    : SIRISHA P
 
-### Developed By    : SIRISHA P
-### Register Number : 212224040321
-### Department      : B.E (CSE)
+Register Number : 212224040321
+
+# Correlation and regression for data analysis
 
 # Aim : 
 
